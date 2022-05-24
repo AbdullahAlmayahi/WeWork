@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable-v24/btn_bg.xml" value="0.13" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable-v24/ic_email.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable-v24/ic_facebook.xml" value="0.178" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable-v24/ic_google.xml" value="0.1335" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable-v24/ic_person.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable-v24/ic_security.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable-v24/input_bg.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/header_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/header_lists.xml" value="0.152" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_add.xml" value="0.204" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_arrow_back.xml" value="0.178" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_checklist.xml" value="0.178" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_filter.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_filter1.xml" value="0.164" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_flag.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_gender.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_location.xml" value="0.164" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_lock.xml" value="0.202" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_menu.xml" value="0.1565" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_mobile.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_more.xml" value="0.1565" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_nationality.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_passport.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_search.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_send.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_title.xml" value="0.1635" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/ic_user.xml" value="0.1565" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/search_icon_background.xml" value="0.1435" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/transport_background.xml" value="0.2125" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/drawable/white_rectangle_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advertisement.xml" value="0.1" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advs_car_maintenance.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advs_cooking_service.xml" value="0.264" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advs_electric_work.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advs_electronic_maintenance.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advs_office_work.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advs_online_work.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advs_paintsn_decor.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_add_advs_plumbing_work.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_car_maintenance.xml" value="0.19709277469003847" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_cooking_service.xml" value="0.2" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_electronic_maintenance.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_forgot_password.xml" value="0.176" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_home_page.xml" value="0.2" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_list_jobs.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_register.xml" value="0.20689655172413793" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_searching.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_searching_page.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_section_search.xml" value="0.264" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_update_user.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/activity_welcome_page.xml" value="0.264" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/dropdown_item.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_car_maintenance.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_chek_list.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_cooking_service.xml" value="0.264" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_electric_works.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_electronic_maintenance.xml" value="0.4" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_empty.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_login.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_more.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_officeworks.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_online_work.xml" value="0.1" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_paintsand_decor.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_plumbing_work.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_update_profile.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/fragment_user.xml" value="0.2" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/jobs_list.xml" value="0.4" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/open_advs.xml" value="0.264" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/layout/row_item.xml" value="0.264" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Abdullah Al Mayahi/Desktop/WeWork/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.13" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

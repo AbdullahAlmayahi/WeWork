@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920556325442",
+    "firebase_url": "https://wework-52e44-default-rtdb.firebaseio.com",
+    "project_id": "wework-52e44",
+    "storage_bucket": "wework-52e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920556325442:android:5b1631946b587bccfbbbdb",
+        "android_client_info": {
+          "package_name": "com.example.wework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920556325442-ppvt4pfb36orop4u9kt5uhe7n8nfb2jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wework",
+            "certificate_hash": "89033d097c38f887516b852cd39e7cb976a1eb20"
+          }
+        },
+        {
+          "client_id": "920556325442-pjffg0d8l0m0pmukbck0etjfelcv5bv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGaXiT0tcoQh2nMn5kEDAdhTKRJBt3HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920556325442-pjffg0d8l0m0pmukbck0etjfelcv5bv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
